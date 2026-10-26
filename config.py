@@ -35,7 +35,7 @@ FIELDS = [
     ("address", "Address"),
 ]
 
-SUBJECT_TEMPLATE = "[{reason}] Permission For Leave"
+SUBJECT_TEMPLATE = "{reason} - Permission For Leave"
 
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 465  # SSL
