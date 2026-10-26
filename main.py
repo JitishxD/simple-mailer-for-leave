@@ -60,3 +60,5 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print("\nCancelled.")
+    finally:
+        input("\nPress Enter to close...")

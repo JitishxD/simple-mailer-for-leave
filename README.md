@@ -105,7 +105,6 @@ Cc      : cc-recipient@example.com
 Subject : [Semester Break] Permission For Leave
 ============================================================
 Respected sir,
-Please ignore any previous mail
 ...
 ============================================================
 Send this mail? (y/N): y

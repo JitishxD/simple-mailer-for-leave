@@ -3,8 +3,6 @@
 from config import SUBJECT_TEMPLATE
 
 BODY_TEMPLATE = """Respected sir,
-Please ignore any previous mail
-
 Name : {name}
 Register Number: {register_number}
 Mobile Number of Student: {student_mobile}
